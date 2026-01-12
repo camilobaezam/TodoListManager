@@ -24,7 +24,7 @@ Características principales:
 
 ## Uso
 
-Ejecuta el programa desde la consola: python main.py
+Ejecuta el programa desde la consola: python TodoListManager.py
 Aparecerá un menú:
 --- Gestor de Tareas ---
 
